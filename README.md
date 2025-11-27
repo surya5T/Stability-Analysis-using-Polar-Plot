@@ -7,6 +7,9 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
+![e3f12db4-3868-48d1-a724-7c83a2239e11](https://github.com/user-attachments/assets/87e7e5a8-231a-4b17-afcb-c67b380dbe7c)
+![6e16b9fc-9427-4ec4-8f37-0d10ded530ac](https://github.com/user-attachments/assets/fa63ca24-55ae-48ef-b39c-1acb39d3a8ee)
+![edba48dd-08b9-45d1-a240-c85723b8bf38](https://github.com/user-attachments/assets/ce759828-d4f1-4ac7-8869-804d0f964e83)
 
 
 
